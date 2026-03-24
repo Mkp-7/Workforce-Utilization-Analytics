@@ -41,7 +41,7 @@ The dashboard allows stakeholders to explore workforce utilization trends and ma
 
 File: `Workforce Utilization Analytics.pbix`  
 
-![Dashboard Preview](/Dashboard.png)
+![Dashboard Preview](Workforce-Utilization-Analytics/Images/Dashboard.png)
 
 ---
 
